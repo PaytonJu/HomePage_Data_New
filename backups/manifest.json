@@ -1,24 +1,33 @@
 {
   "format_version": 1,
-  "app_version": "4.0.0",
-  "exported_at": "2026-08-11T04:38:34.274Z",
+  "app_version": "4.1.1",
+  "exported_at": "2026-08-11T19:00:00.118Z",
   "counts": {
-    "logs": 1,
-    "gallery": 0,
-    "images": 1
+    "logs": 2,
+    "gallery": 1,
+    "images": 3
   },
   "images": [
     {
       "name": "1786352965791-67d97ea6d6c039849bdb.jpg",
       "size": 21761,
       "sha256": "56e2a24733ea7dd76d59cb68fc03c070eb1a303035b22efcf6a3dabde60ca0b7"
+    },
+    {
+      "name": "1786438869795-2e38c5dfc743557b5ab6.jpg",
+      "size": 529789,
+      "sha256": "b55fd9404eba561e49235afc2a2faf5b15cb8ec6d7b40dbed87546b7bf4b5968"
+    },
+    {
+      "name": "1786438870539-b6c99a7b6a0ac484c006.jpg",
+      "size": 529789,
+      "sha256": "b55fd9404eba561e49235afc2a2faf5b15cb8ec6d7b40dbed87546b7bf4b5968"
     }
   ],
   "excluded_private_data": [
     "github_token",
     "auth.json",
     "sessions.json",
-    "visitors",
     ".env"
   ]
 }
