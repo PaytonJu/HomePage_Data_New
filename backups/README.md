@@ -1,6 +1,6 @@
 # MySpace GitHub 备份
 
-最近同步：2026-08-11T04:38:34.274Z
+最近同步：2026-08-11T19:00:00.118Z
 
 ## 内容
 
@@ -12,4 +12,4 @@
 - `uploads/`：后台上传的图片
 - `backups/history/`：按日期保留的日志快照
 
-出于安全和隐私考虑，不备份 GitHub Token、管理员密码哈希、Session、访客记录、IP 或 `.env`。
+出于安全考虑，不备份 GitHub Token、管理员密码哈希、Session 或 `.env`。
