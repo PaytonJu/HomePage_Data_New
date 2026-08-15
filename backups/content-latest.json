@@ -1,7 +1,7 @@
 {
   "format_version": 1,
   "app_version": "4.1.1",
-  "exported_at": "2026-08-14T19:00:00.095Z",
+  "exported_at": "2026-08-15T19:00:00.074Z",
   "config": {
     "site_name": "我的主页",
     "real_name": "Payton Ju",
@@ -48,6 +48,15 @@
     "social_website": "https://jucode.org/old"
   },
   "logs": [
+    {
+      "id": 3,
+      "title": "明天军训",
+      "content": "明天开学军训七天，哎。\n823",
+      "mood": "😢 难过",
+      "weather": "☁️ 多云",
+      "created_at": "2026-08-15T07:30:00.000Z",
+      "updated_at": "2026-08-15T07:31:23.763Z"
+    },
     {
       "id": 2,
       "title": "领物资",
