@@ -1,7 +1,7 @@
 {
   "format_version": 1,
   "app_version": "4.1.1",
-  "exported_at": "2026-08-21T19:00:00.062Z",
+  "exported_at": "2026-08-22T14:38:49.441Z",
   "config": {
     "site_name": "我的主页",
     "real_name": "Payton Ju",
@@ -49,6 +49,15 @@
   },
   "logs": [
     {
+      "id": 4,
+      "title": "军训结束",
+      "content": "终于结束了，七天熬过来了",
+      "mood": "😊 开心",
+      "weather": "🌧️ 雨天",
+      "created_at": "2026-08-22T14:31:00.000Z",
+      "updated_at": "2026-08-22T14:31:48.480Z"
+    },
+    {
       "id": 3,
       "title": "明天军训",
       "content": "明天开学军训七天，哎。\n823",
@@ -76,14 +85,5 @@
       "updated_at": "2026-08-10T10:52:00.693Z"
     }
   ],
-  "gallery": [
-    {
-      "id": 1,
-      "title": "绯英",
-      "description": "崩坏 星穹铁道  绯英",
-      "image_url": "/uploads/1786438869795-2e38c5dfc743557b5ab6.jpg",
-      "sort_order": 0,
-      "created_at": "2026-08-11T09:01:10.233Z"
-    }
-  ]
+  "gallery": []
 }
