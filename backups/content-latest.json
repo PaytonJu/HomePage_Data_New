@@ -1,13 +1,13 @@
 {
   "format_version": 1,
-  "app_version": "4.2.0",
-  "exported_at": "2026-08-23T13:10:24.315Z",
+  "app_version": "4.2.1",
+  "exported_at": "2026-08-23T14:14:40.742Z",
   "config": {
     "site_name": "我的主页",
     "real_name": "Payton Ju",
     "hero_greeting": "你好，我是",
     "slogan": "生命不息，折腾不止",
-    "hero_taglines": "爱折腾的数码爱好者\nPython 自学者\n崩铁开服玩家",
+    "hero_taglines": "生命不息，折腾不止\nDebug The World",
     "typing_enabled": "1",
     "typing_speed": "90",
     "typing_delete_speed": "45",
@@ -19,9 +19,9 @@
     "nav_life": "杂乱",
     "nav_logs": "日志",
     "nav_social": "联系",
-    "about_title": "关于我",
-    "about": "爱折腾｜对电脑、手机和各种数码产品保持好奇，喜欢自己动手搭站、配环境，把问题一个个 Debug 掉。",
-    "about_extra": "学习中｜正在自学 Python 与 Web 开发，持续学习 HTML / CSS、JavaScript、Shell 和 Java。\n日常｜崩坏：星穹铁道开服玩家，也会在这里记录项目、游戏和生活里的碎片。",
+    "about_title": "关于我_AboutMe",
+    "about": "你看这通天巨塔，每时每刻都有人往下跳。",
+    "about_extra": "算了不能讲那么刀的话语，怎么说也要充分发挥一个崩批的主观能动性吧。",
     "stat_1_value": "70",
     "stat_1_suffix": "",
     "stat_1_label": "开拓等级(满)",
@@ -34,11 +34,11 @@
     "stat_4_value": "552",
     "stat_4_suffix": "",
     "stat_4_label": "战利品开启",
-    "life_title": "琐记",
-    "logs_title": "日志",
-    "social_title": "找到我",
-    "social_website_title": "旧版主页",
-    "social_website_name": "查看旧版主页",
+    "life_title": "琐记_Other",
+    "logs_title": "我的日志_Log",
+    "social_title": "找到我_FindMe",
+    "social_website_title": "个人网页",
+    "social_website_name": "旧版主页直达链接",
     "footer_text": "© {year} {site_name}. 关于 我的老大{web_path:jucode.org/laoda}",
     "avatar": "/uploads/1786352965791-67d97ea6d6c039849bdb.jpg",
     "social_github": "PaytonJu",
@@ -52,6 +52,15 @@
     "social_website": "https://jucode.org/old"
   },
   "logs": [
+    {
+      "id": 5,
+      "title": "更新日志",
+      "content": "修复了一些已知的问题",
+      "mood": "😊 开心",
+      "weather": "☁️ 多云",
+      "created_at": "2026-08-23T13:26:00.000Z",
+      "updated_at": "2026-08-23T13:27:18.511Z"
+    },
     {
       "id": 4,
       "title": "军训结束",
@@ -91,72 +100,51 @@
   ],
   "gallery": [
     {
-      "id": 1,
+      "id": 3,
       "title": "绯英",
-      "description": "《崩坏：星穹铁道》中的绯英。星光、刀锋与粉紫色的画面，是我想留在这里的一帧。",
+      "description": "游戏内截图",
       "group": "崩铁",
-      "image_url": "/uploads/1786438869795-2e38c5dfc743557b5ab6.jpg",
+      "image_url": "/uploads/1787494262665-0-86de64883432afac915d.jpg",
       "image_urls": [
-        "/uploads/1786438869795-2e38c5dfc743557b5ab6.jpg"
+        "/uploads/1787494262665-0-86de64883432afac915d.jpg"
       ],
       "sort_order": 0,
-      "created_at": "2026-08-11T09:01:10.233Z"
-    },
-    {
-      "id": 3,
-      "title": "测试",
-      "description": "1的 上，。",
-      "image_url": "/uploads/1787486775297-1eaae5c8d4057f1a30d7.png",
-      "sort_order": 1,
-      "created_at": "2026-08-23T12:06:15.316Z",
-      "group": "生活",
-      "image_urls": [
-        "/uploads/1787486775297-1eaae5c8d4057f1a30d7.png"
-      ]
+      "created_at": "2026-08-23T14:11:03.171Z"
     },
     {
       "id": 4,
-      "title": "明年",
-      "description": "笔试 ，。",
-      "image_url": "/uploads/1787487713055-ec5f49e25d83d1876500.jpg",
-      "sort_order": 2,
-      "created_at": "2026-08-23T12:21:53.254Z",
-      "group": "未分组",
+      "title": "中国国家地理",
+      "description": "买的新杂志到了",
+      "group": "学习",
+      "image_url": "/uploads/1787494361329-0-f14fe83c00649456a793.jpg",
       "image_urls": [
-        "/uploads/1787487713055-ec5f49e25d83d1876500.jpg"
-      ]
+        "/uploads/1787494361329-0-f14fe83c00649456a793.jpg",
+        "/uploads/1787494363890-0-7f78fcf645d3972ed8a3.jpg",
+        "/uploads/1787494365926-0-5e3d76b208f2e96ba831.jpg",
+        "/uploads/1787494368601-0-44be0f3ed2d9f042b88b.jpg",
+        "/uploads/1787494369808-0-11f754adb5b15bf32d2c.jpg"
+      ],
+      "sort_order": 0,
+      "created_at": "2026-08-23T14:12:50.197Z"
     },
     {
       "id": 5,
-      "title": "明年",
-      "description": "笔试 ，。",
-      "image_url": "/uploads/1787487714821-74f94633f4e2e05218d1.jpg",
-      "sort_order": 2,
-      "created_at": "2026-08-23T12:21:54.926Z",
-      "group": "未分组",
+      "title": "学校泡面时刻",
+      "description": "最后一次在学校吃泡面",
+      "group": "日常",
+      "image_url": "/uploads/1787494450836-0-747c4d678b46ad32e8b8.jpg",
       "image_urls": [
-        "/uploads/1787487714821-74f94633f4e2e05218d1.jpg"
-      ]
-    },
-    {
-      "id": 6,
-      "title": "测试001",
-      "description": "",
-      "group": "生活",
-      "image_url": "/uploads/1787490059322-0-f3e7695772566d5ed991.png",
-      "image_urls": [
-        "/uploads/1787490059322-0-f3e7695772566d5ed991.png",
-        "/uploads/1787490059322-1-a3d3197b7cf72a63aa44.png",
-        "/uploads/1787490059322-2-d49b1737736a2596a948.png",
-        "/uploads/1787490059322-3-4c2bf59e4cba00a6fb00.png"
+        "/uploads/1787494450836-0-747c4d678b46ad32e8b8.jpg",
+        "/uploads/1787494451881-0-275a64ffdf20e454754f.jpg"
       ],
-      "sort_order": 4,
-      "created_at": "2026-08-23T13:00:59.343Z"
+      "sort_order": 0,
+      "created_at": "2026-08-23T14:14:12.398Z"
     }
   ],
   "gallery_groups": [
     "未分组",
     "崩铁",
-    "生活"
+    "学习",
+    "日常"
   ]
 }
