@@ -1,62 +1,52 @@
 {
   "format_version": 1,
-  "app_version": "4.2.0",
-  "exported_at": "2026-08-23T13:10:24.315Z",
+  "app_version": "4.2.1",
+  "exported_at": "2026-08-23T14:14:40.742Z",
   "counts": {
-    "logs": 4,
-    "gallery": 5,
-    "images": 10
+    "logs": 5,
+    "gallery": 3,
+    "images": 8
   },
   "images": [
     {
-      "name": "1786352965791-67d97ea6d6c039849bdb.jpg",
-      "size": 21761,
-      "sha256": "56e2a24733ea7dd76d59cb68fc03c070eb1a303035b22efcf6a3dabde60ca0b7"
+      "name": "1787494262665-0-86de64883432afac915d.jpg",
+      "size": 803471,
+      "sha256": "7b16cdb5181ea8eb59f44cad781cc7bb89c62555a1e20c627cecf70d49c195f4"
     },
     {
-      "name": "1786438869795-2e38c5dfc743557b5ab6.jpg",
-      "size": 529789,
-      "sha256": "b55fd9404eba561e49235afc2a2faf5b15cb8ec6d7b40dbed87546b7bf4b5968"
+      "name": "1787494361329-0-f14fe83c00649456a793.jpg",
+      "size": 841983,
+      "sha256": "7a2d3f90fac9b9b19b9057936ca83c464bb67ca174dc8d2c33f0f6157e17632c"
     },
     {
-      "name": "1786438870539-b6c99a7b6a0ac484c006.jpg",
-      "size": 529789,
-      "sha256": "b55fd9404eba561e49235afc2a2faf5b15cb8ec6d7b40dbed87546b7bf4b5968"
+      "name": "1787494363890-0-7f78fcf645d3972ed8a3.jpg",
+      "size": 843654,
+      "sha256": "cc03c197dcada66523c32410e3caa6844172f1f704b3087b9bcbbc0ad0f0bdfe"
     },
     {
-      "name": "1787486775297-1eaae5c8d4057f1a30d7.png",
-      "size": 7280,
-      "sha256": "d80b0c21d519f3f70c0d41fd9415909a92ad8a55909cf3bdcbdbf402938bfe06"
+      "name": "1787494365926-0-5e3d76b208f2e96ba831.jpg",
+      "size": 587927,
+      "sha256": "a9576c6aeec074bfbfc4937cac70699736679c56542201d60e3643a0b7124950"
     },
     {
-      "name": "1787487713055-ec5f49e25d83d1876500.jpg",
-      "size": 3073591,
-      "sha256": "7f979e1b13fea28b842f0de15894b796cbb40cf1fc098d9848b8957ae5b64c55"
+      "name": "1787494368601-0-44be0f3ed2d9f042b88b.jpg",
+      "size": 598812,
+      "sha256": "828635f719673b2fc37171df2952139cb1907f52ee474d1368dbe49a9c565f10"
     },
     {
-      "name": "1787487714821-74f94633f4e2e05218d1.jpg",
-      "size": 3073591,
-      "sha256": "7f979e1b13fea28b842f0de15894b796cbb40cf1fc098d9848b8957ae5b64c55"
+      "name": "1787494369808-0-11f754adb5b15bf32d2c.jpg",
+      "size": 736413,
+      "sha256": "c19e09cd247705067527e6d3d2595a3b2ee48b47ed73ee7a35b508b3d6a978d5"
     },
     {
-      "name": "1787490059322-0-f3e7695772566d5ed991.png",
-      "size": 10089,
-      "sha256": "cb0b4e168c923ea0b0ff84472ffae5f09ed40d894dc8eba57dca26a805b71f07"
+      "name": "1787494450836-0-747c4d678b46ad32e8b8.jpg",
+      "size": 665573,
+      "sha256": "cb333079a9b79c8f8f89232662f431e78d3964e859aecae5d1bcd0c48b6de66d"
     },
     {
-      "name": "1787490059322-1-a3d3197b7cf72a63aa44.png",
-      "size": 9907,
-      "sha256": "ce63778a3c83a2d0ed4a8db08d4e8e994ce19fad5d0633a6b3d8ebbee0d726ac"
-    },
-    {
-      "name": "1787490059322-2-d49b1737736a2596a948.png",
-      "size": 149573,
-      "sha256": "8fb89bec2ad78e760fe37c6232ce4a2b3dcf9cc7e90e8d5f77ce0e800c9b80a7"
-    },
-    {
-      "name": "1787490059322-3-4c2bf59e4cba00a6fb00.png",
-      "size": 47819,
-      "sha256": "b6e13a26438ef2bd65dddb3affd92ef967b36e451ad321accddf5089f02a48c3"
+      "name": "1787494451881-0-275a64ffdf20e454754f.jpg",
+      "size": 556989,
+      "sha256": "84acb51f606327c76f146bdf619f3671bbc6f00445be17c11f8d71e02c2b4d45"
     }
   ],
   "excluded_private_data": [
