@@ -1,7 +1,7 @@
 {
   "format_version": 1,
   "app_version": "4.2.1",
-  "exported_at": "2026-08-28T19:00:00.088Z",
+  "exported_at": "2026-08-29T19:00:00.057Z",
   "config": {
     "site_name": "Payton Ju",
     "real_name": "Payton Ju",
@@ -53,13 +53,22 @@
   },
   "logs": [
     {
+      "id": 6,
+      "title": "更新日志",
+      "content": "修复了一些已知的问题",
+      "mood": "",
+      "weather": "",
+      "created_at": "2026-08-29T06:15:00.000Z",
+      "updated_at": "2026-08-29T06:15:53.655Z"
+    },
+    {
       "id": 5,
       "title": "更新日志",
       "content": "修复了一些已知的问题",
-      "mood": "😊 开心",
-      "weather": "☁️ 多云",
+      "mood": "",
+      "weather": "",
       "created_at": "2026-08-23T13:26:00.000Z",
-      "updated_at": "2026-08-23T13:27:18.511Z"
+      "updated_at": "2026-08-29T06:16:01.557Z"
     },
     {
       "id": 4,
