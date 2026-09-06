@@ -1,7 +1,7 @@
 {
   "format_version": 1,
   "app_version": "4.2.1",
-  "exported_at": "2026-09-05T19:00:00.124Z",
+  "exported_at": "2026-09-06T19:00:00.097Z",
   "config": {
     "site_name": "Payton Ju",
     "real_name": "Payton Ju",
@@ -148,6 +148,22 @@
       ],
       "sort_order": 0,
       "created_at": "2026-08-23T14:14:12.398Z"
+    },
+    {
+      "id": 6,
+      "title": "雅思学习",
+      "description": "没办法，将来出国必须用",
+      "group": "学习",
+      "image_url": "/uploads/1788671558070-0-16bccca7ae8af28189ed.jpg",
+      "image_urls": [
+        "/uploads/1788671558070-0-16bccca7ae8af28189ed.jpg",
+        "/uploads/1788671560741-0-9986b924ec3efc062b98.jpg",
+        "/uploads/1788671562994-0-a51e616f487f4f03ad77.jpg",
+        "/uploads/1788671565422-0-0b37ae139a394165eb82.jpg",
+        "/uploads/1788671568110-0-845f827894cbb2448031.jpg"
+      ],
+      "sort_order": 2,
+      "created_at": "2026-09-06T05:12:49.145Z"
     }
   ],
   "gallery_groups": [
