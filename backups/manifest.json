@@ -1,11 +1,11 @@
 {
   "format_version": 1,
   "app_version": "4.2.1",
-  "exported_at": "2026-09-05T19:00:00.124Z",
+  "exported_at": "2026-09-06T19:00:00.097Z",
   "counts": {
     "logs": 6,
-    "gallery": 3,
-    "images": 8
+    "gallery": 4,
+    "images": 13
   },
   "images": [
     {
@@ -47,6 +47,31 @@
       "name": "1787494451881-0-275a64ffdf20e454754f.jpg",
       "size": 556989,
       "sha256": "84acb51f606327c76f146bdf619f3671bbc6f00445be17c11f8d71e02c2b4d45"
+    },
+    {
+      "name": "1788671558070-0-16bccca7ae8af28189ed.jpg",
+      "size": 475706,
+      "sha256": "d49cb4ccd7238fd02d15a259beb55877db98f4d4d9fcf51e2a4b1a0a381330c7"
+    },
+    {
+      "name": "1788671560741-0-9986b924ec3efc062b98.jpg",
+      "size": 516388,
+      "sha256": "ea6ec07dacbba8c589ba818d8193815e4aec451049f7025664ec147becf032ad"
+    },
+    {
+      "name": "1788671562994-0-a51e616f487f4f03ad77.jpg",
+      "size": 609939,
+      "sha256": "0a8d2add23a07c463a603970f9ae56975377fcee28df5f86611f562f7dacf7d3"
+    },
+    {
+      "name": "1788671565422-0-0b37ae139a394165eb82.jpg",
+      "size": 645013,
+      "sha256": "615c974f2854a3a0bb35b6381c6991858ca23fe0b428bb4a4c300ee2a8b1ea35"
+    },
+    {
+      "name": "1788671568110-0-845f827894cbb2448031.jpg",
+      "size": 646714,
+      "sha256": "ec39d6ca89329c2dcc10bdaa59bcf87827d464201e6b5130a71e9c7d6588bbeb"
     }
   ],
   "excluded_private_data": [
